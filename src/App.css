@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/* Base Styles */
+
+body {
+  font-family: "lato", sans-serif;
+  color: white;
+  background-color: #082032;
+}
+
+a {
+  color: black;
+  font-family: "roboto", sans-serif;
+  font-size: 50px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: "roboto", sans-serif;
+  font-size: 60px;
+  font-weight: 80px;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  font-weight: 400px;
+}
+
+span {
+  color: #FFF338;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  margin-left: 339px;
+}
+
+
+li {
+  outline-color: #2C394B;
+  outline-style: inset;
+  outline-width: 2px;
+  outline-offset: 5px;
+  margin: 11px;
+  padding: 0px, 20px;
+}
+
+img {
+  height: 500px;
+  width: 100%;
+}
+
+
+/* Classes */
+
+.movie-cover {
+  max-width: 800px;
+  width: 800px;
+  background-color: #2C394B;
+  margin-left: 380px;
+  border-radius: 10px;
+}
+
+.circle {
+    background-color: transparent;
+    margin-right: 37px;
+    text-align: center;
+    margin-top: 50px;
+    border:3px solid #FFF338;
+    height:90px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:90px;
+}
+
+.ratings {
+  font-size: 30px;
+  margin-top: 12px;
+}
+
+.big-half , .small-half {
+  font-family: "roboto", sans-serif;
+  font-style: oblique;
+  color: white;
+}
+
+.small-half {
+  color: #DAD0C2;
+  font-size: 19px;
+}
+
+
+
+.visit-movie-button {
+  margin: 30px, 20px;
+  padding: 10px, 30px;
+  position: relative;
+  top: 50px;
+  left: 120px;
+  font-size: 20px;
+  outline-style: solid;
+  color: #FFF338;
+  outline-color: #FFF338;
+  outline-offset: 10px;
+}
+
+
+.generate-movie-button {
+background-color: #FFF338;
+padding: 0.5em 1.2em;
+font-size: 20px;
+text-decoration: none;
+position: relative;
+top: 50px;
+left: 250px;
+text-transform: uppercase;
+}
+
+.action-buttons {
+  width: inherit;
+}
+
+
+.title {
+  font-size: 50px;
+  padding-top: 40px;
+  padding-left: 30px;
+  margin-bottom: 0;
+}
+
+.top-information {
+  display: flex;
+  justify-content: space-between;
+}
+
+.supporting-info {
+  padding-left: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.lower-information {
+  font-family: "roboto", sans-serif;
+  width: 800px;
+  max-width: 800px;
+  margin-left: 380px;
+}

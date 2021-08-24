@@ -1,0 +1,219 @@
+[
+      {
+        cover: 'https://res.cloudinary.com/ubahthebuilder/image/upload/v1627129180/avengers_endgame_ilqzqj.png',
+        date: 2017,
+        description: 'After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos actions and restore balance to the universe.',
+        directors: [
+          'Anthony Russo',
+          'Joe Russo'
+        ],
+        genres: [
+          'Action',
+          'Adventure',
+          'Drama'
+        ],
+        hours: 3,
+        minutes: 1,
+        rating: 8.4,
+        stars: [
+          'Robert Downey',
+          'Chris Evans',
+          'Mark Ruffalo'
+        ],
+        title: 'Avengers: End Game',
+        website: 'https://www.imdb.com/title/tt4154796/',
+        writers: [
+          'Christopher Markus',
+          'Stephen McFeely'
+        ]
+      },
+
+      {
+        cover: 'https://res.cloudinary.com/ubahthebuilder/image/upload/v1627129192/five_feet_apart_gmist2.jpg',
+        date: 2019,
+        description: 'A pair of teenagers with cystic fibrosis meet in a hospital and fall in love, though their disease means they must avoid close physical contact.',
+        directors: [
+          'Justin Baldoni'
+        ],
+        genres: [
+          'Drama',
+          'Romance'
+        ],
+        hours: 1,
+        minutes: 56,
+        rating: 7.2,
+        stars: [
+          'Haley Lu Richardson',
+          'Cole Sprouse',
+          'Moises Arias'
+        ],
+        title: 'Five Feet Apart',
+        website: 'https://www.imdb.com/title/tt6472976/',
+        writers: [
+          'Mikki Daughtry',
+          'Tobias Iaconis'
+        ]
+      },
+
+      {
+        cover: 'https://res.cloudinary.com/ubahthebuilder/image/upload/v1627129204/fault_in_stars_jw4gl4.jpg',
+        date: 2014,
+        description: 'Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.',
+        directors: [
+          'George Boone'
+        ],
+        genres: [
+          'Drama',
+          'Romance'
+        ],
+        hours: 2,
+        minutes: 6,
+        rating: 7.7,
+        stars: [
+          'Shailene Woodley',
+          'Ansel Elgort',
+          'Nat Wolff'
+        ],
+        title: 'Fault in our stars',
+        website: 'https://www.imdb.com/title/tt2582846/',
+        writers: [
+          'Scott Neustadter',
+          'Michael H. Weber',
+          'John Green'
+        ]
+      },
+
+      {
+        cover: 'https://res.cloudinary.com/ubahthebuilder/image/upload/v1627129254/mission_imposible_brfoxc.jpg',
+        date: 2011,
+        description: 'The IMF is shut down when it\'s implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization\'s name.',
+        directors: [
+          'Brad Bird'
+        ],
+        genres: [
+          'Action',
+          'Adventure',
+          'Thriller'
+        ],
+        hours: 2,
+        minutes: 12,
+        rating: 7.4,
+        stars: [
+          'Tom Cruise',
+          'Jeremy Renner',
+          'Simon Pegg'
+        ],
+        title: 'Mission: Impossible - Ghost Protocol',
+        website: 'https://www.imdb.com/title/tt2582846/',
+        writers: [
+          'Bruce Geller',
+          'Josh Appelbaum',
+          'Andre Nemec'
+        ]
+      },
+
+      {
+        cover: 'https://res.cloudinary.com/ubahthebuilder/image/upload/v1627129287/titanic-the-movie_fuyesz.jpg',
+        date: 1997,
+        description: 'A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic',
+        directors: [
+          'James Cameron'
+        ],
+        genres: [
+          'Drama',
+          'Romance'
+        ],
+        hours: 3,
+        minutes: 14,
+        rating: 7.8,
+        stars: [
+          'Leornado DiCaprio',
+          'Kate Winslet'
+        ],
+        title: 'Titanic',
+        website: 'https://www.imdb.com/title/tt2582846/',
+        writers: [
+          'James Cameron'
+        ]
+      },
+
+      {
+        cover: 'https://res.cloudinary.com/ubahthebuilder/image/upload/v1627129171/blood_diamond_pqgp6p.jpg',
+        date: 2006,
+        description: 'A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.',
+        directors: [
+          'Edward Zwick'
+        ],
+        genres: [
+          'Drama',
+          'Adventure',
+          'Thriller'
+        ],
+        hours: 2,
+        minutes: 23,
+        rating: 8,
+        stars: [
+          'Leornado DiCaprio',
+          'Djimon Hounsou',
+          'Jennifer Connely'
+        ],
+        title: 'Blood Diamond',
+        website: 'https://www.imdb.com/title/tt0450259/',
+        writers: [
+          'C. Gaby Mitchell',
+          'Charles Leavitt'
+        ]
+      },
+
+      {
+        cover: 'https://res.cloudinary.com/ubahthebuilder/image/upload/v1627129155/acrimony_dug3nm.jpg',
+        date: 2018,
+        description: 'A faithful wife, tired of standing by her devious husband, is enraged when it becomes clear she has been betrayed.',
+        directors: [
+          'Tyler Perry'
+        ],
+        genres: [
+          'Thriller'
+        ],
+        hours: 2,
+        minutes: 0,
+        rating: 5.8,
+        stars: [
+          'Taraji P. Henson',
+          'Lyric Bent',
+          'Crystle Stewart'
+        ],
+        title: 'Acrimony',
+        website: 'https://www.imdb.com/title/tt6063050/',
+        writers: [
+          'Tyler Perry'
+        ]
+      },
+
+      {
+        cover: 'https://res.cloudinary.com/ubahthebuilder/image/upload/v1627133443/social_network_zexzkh.png',
+        date: 2010,
+        description: 'As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.',
+        directors: [
+          'David Fincher'
+        ],
+        genres: [
+          'Biography',
+          'Drama'
+        ],
+        hours: 2,
+        minutes: 0,
+        rating: 7.7,
+        stars: [
+          'Andrew Garfield',
+          'Justin Timberlake',
+          'Jesse Einsenberg'
+        ],
+        title: 'The Social Network',
+        website: 'https://www.imdb.com/title/tt1285016/',
+        writers: [
+          'Aaron Sorkin',
+          'Ben Mezrich'
+        ]
+      }
+]
